@@ -1,0 +1,43 @@
+COMPANY KNOWLEDGE BASE
+DOCUMENT: HUMAN RESOURCES (HR) GUIDELINES
+VERSION: 1.0
+NOTE: Fictional sample company policy for chatbot/RAG testing. Replace details with your actual company rules.
+
+1. PURPOSE
+These guidelines summarize common employee administration and workplace expectations.
+
+2. EMPLOYEE ONBOARDING
+New employees should complete the joining forms, identity and payroll documentation, policy acknowledgements, and mandatory training assigned by HR.
+Employees receive access credentials and equipment according to their role. Credentials must never be shared.
+
+3. WORKING HOURS AND ATTENDANCE
+The sample standard schedule is Monday to Friday, 9:30 AM to 6:30 PM, with a reasonable meal break. Actual schedules may vary by team, shift, location, or contract.
+Employees must record attendance using the approved attendance system and inform their manager if they expect to be late or absent.
+
+4. HYBRID AND REMOTE WORK
+Remote or hybrid work requires manager approval and must follow information-security requirements.
+Employees should protect company devices, use approved networks and tools, and remain reachable during agreed working hours.
+
+5. CODE OF CONDUCT
+Employees are expected to:
+- Treat colleagues, customers, and partners respectfully.
+- Avoid harassment, discrimination, bullying, and retaliation.
+- Disclose conflicts of interest.
+- Protect confidential company and customer information.
+- Use company resources responsibly.
+- Follow applicable laws and company policies.
+
+6. PERFORMANCE AND FEEDBACK
+Managers should communicate role expectations, provide regular feedback, and document performance discussions. Employees may request clarification or development support.
+
+7. LEARNING AND DEVELOPMENT
+Training may include role-specific learning, security awareness, compliance, communication, and leadership development. Course approval and reimbursement depend on the applicable learning policy.
+
+8. RESIGNATION AND EXIT
+Employees who resign should submit written notice according to their employment agreement. HR coordinates knowledge transfer, asset return, access closure, final settlement, and exit feedback.
+
+9. CONFIDENTIALITY
+Employee records and personal information must be accessed only by authorized personnel for legitimate business purposes.
+
+10. HR SUPPORT
+For payroll, attendance, workplace concerns, or employee-record corrections, raise a request through the official HR helpdesk. Include the employee ID only in approved secure systems.

@@ -1,0 +1,73 @@
+COMPANY KNOWLEDGE BASE
+DOCUMENT: ROOT CAUSE ANALYSIS (RCA) AND INCIDENT MANAGEMENT
+VERSION: 1.0
+NOTE: Fictional examples for operational support and RAG testing.
+
+1. PURPOSE
+Root Cause Analysis (RCA) identifies why an incident occurred, what impact it caused, and which actions will reduce the chance of recurrence.
+
+2. INCIDENT SEVERITY
+- SEV-1: Critical service outage or major business/customer impact.
+- SEV-2: Significant degradation affecting multiple users or a key function.
+- SEV-3: Limited impact with a workaround available.
+- SEV-4: Minor issue, question, or cosmetic defect.
+The incident commander may adjust severity as evidence changes.
+
+3. RCA WORKFLOW
+1. Detect and report the incident.
+2. Record start time, affected service, symptoms, and reporter.
+3. Assign an incident owner and severity.
+4. Mitigate customer or business impact.
+5. Collect logs, metrics, traces, deployment history, and relevant changes.
+6. Build a timestamped event timeline.
+7. Identify the direct cause and contributing factors.
+8. Validate the cause with evidence.
+9. Define corrective and preventive actions with owners and due dates.
+10. Review, approve, and publish the RCA.
+
+4. FIVE WHYS METHOD
+Ask why the incident happened repeatedly until the process or system weakness is identified. Avoid stopping at human error; examine controls, tooling, training, and system design.
+
+5. SAMPLE INCIDENT: API OUTAGE
+Impact: Some users could not submit orders for 18 minutes.
+Detection: Automated error-rate alert.
+Direct cause: A newly deployed service version used an incompatible database field.
+Contributing factors: The staging dataset did not include the affected legacy record format, and the deployment check did not validate schema compatibility.
+Mitigation: Roll back the deployment and restore the previous service version.
+Corrective actions:
+- Add backward-compatibility tests.
+- Include representative legacy records in staging.
+- Add a schema compatibility check to the release pipeline.
+- Assign an owner and due date to each action.
+
+6. SAMPLE INCIDENT: SLOW REPORT
+Impact: A scheduled report took 40 minutes instead of the normal 5 minutes.
+Direct cause: A query performed a full table scan.
+Contributing factors: A required index was missing and query performance was not part of release validation.
+Mitigation: Run the optimized query and schedule the report after confirming results.
+Preventive actions: Review query plans, add an appropriate index after testing, and introduce performance thresholds.
+
+7. RCA TEMPLATE
+Incident ID:
+Title:
+Severity:
+Service or system:
+Incident owner:
+Start and end time:
+Detection method:
+Customer/business impact:
+Timeline:
+Direct root cause:
+Contributing factors:
+Mitigation:
+Corrective actions (owner and due date):
+Preventive actions (owner and due date):
+Evidence and links:
+Review/approval:
+Lessons learned:
+
+8. QUALITY RULES
+- Use facts and evidence, not blame.
+- Distinguish the direct cause from contributing factors.
+- Do not include passwords, tokens, personal data, or secrets in the report.
+- Every action must have a clear owner and due date.

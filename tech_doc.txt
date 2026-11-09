@@ -1,0 +1,82 @@
+COMPANY KNOWLEDGE BASE
+DOCUMENT: IT AND TECHNICAL SUPPORT DOCUMENTATION
+VERSION: 1.0
+NOTE: Fictional sample technical documentation for chatbot/RAG testing. Replace hostnames, commands, and contacts with approved internal values.
+
+1. PURPOSE
+This document provides basic troubleshooting guidance for common employee IT issues.
+
+2. HOW TO RAISE A TICKET
+Submit a ticket through the official IT service desk. Include:
+- A short issue title
+- Application or device affected
+- Approximate time the issue started
+- Exact error message, if safe to share
+- Troubleshooting already attempted
+- Business impact and urgency
+Do not include passwords, OTPs, API keys, or confidential customer data.
+
+3. PASSWORD OR LOGIN ISSUE
+- Check keyboard layout and Caps Lock.
+- Confirm the correct company sign-in page.
+- Use the approved password-reset process.
+- Check whether multi-factor authentication is working.
+- Contact IT if the account is locked.
+Never share an OTP or approve an unexpected sign-in request.
+
+4. NETWORK ISSUE
+- Check Wi-Fi or Ethernet connection.
+- Confirm airplane mode is off.
+- Restart the network connection.
+- Test an approved internal service and a permitted public website.
+- Record the error and contact IT if the issue continues.
+Do not bypass company network controls.
+
+5. VPN ISSUE
+- Confirm internet access works before connecting.
+- Use the approved VPN client and company profile.
+- Check device date and time.
+- Capture the error code.
+- Contact IT if authentication or connection repeatedly fails.
+
+6. EMAIL ISSUE
+- Confirm network connectivity.
+- Check mailbox storage and service status.
+- Verify recipient address and attachment size.
+- Do not open suspicious attachments or links.
+- Report suspected phishing using the approved reporting method.
+
+7. APPLICATION ISSUE
+- Record application name and version.
+- Note the steps that reproduce the issue.
+- Capture a screenshot after removing sensitive information.
+- Check whether colleagues are affected.
+- Do not install unapproved software or change production settings.
+
+8. DEVICE SECURITY
+- Lock the screen when away.
+- Install approved updates.
+- Use disk encryption and endpoint protection where provided.
+- Report lost or stolen devices immediately.
+- Return company equipment during offboarding.
+
+9. INCIDENT PRIORITY
+Critical business outage: contact the service desk's urgent channel and reference the ticket.
+Single-user issue: submit a normal ticket with details.
+Security concern: use the security incident reporting channel immediately.
+
+10. SAMPLE TROUBLESHOOTING COMMANDS
+Windows:
+- ipconfig /all
+- ipconfig /flushdns
+- ping <approved-hostname>
+
+Linux:
+- ip addr
+- resolvectl status
+- ping <approved-hostname>
+
+Run commands only on devices and networks you are authorized to administer. Replace <approved-hostname> with an approved test host.
+
+11. ESCALATION
+If first-line support cannot resolve the issue, the ticket should include diagnostic evidence and be assigned to the relevant application, network, infrastructure, or security team.

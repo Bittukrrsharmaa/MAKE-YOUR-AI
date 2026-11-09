@@ -1,0 +1,45 @@
+COMPANY KNOWLEDGE BASE
+DOCUMENT: MEDICAL AND HEALTH BENEFITS POLICY
+VERSION: 1.0
+NOTE: Fictional sample policy for chatbot/RAG testing. It does not promise actual insurance coverage or replace an insurer's policy wording.
+
+1. PURPOSE
+This document gives a general overview of example employee medical benefits.
+
+2. ELIGIBILITY
+Eligibility may depend on employment type, joining date, location, and the insurer's terms. HR provides the current plan summary and dependent-enrolment rules.
+
+3. SAMPLE COVERAGE
+A company-sponsored group health plan may cover eligible employees and enrolled dependents for approved hospitalization and other benefits stated in the insurance schedule.
+Coverage limits, room category, waiting periods, exclusions, co-payments, and network hospitals are determined by the insurer's policy.
+
+4. ENROLMENT
+Eligible employees should submit enrolment details and dependent documents within the stated enrolment window. Report changes in dependent information to HR promptly.
+
+5. CASHLESS HOSPITALIZATION
+1. Check whether the hospital is in the insurer's network.
+2. Present the health card or policy details at the insurance desk.
+3. The hospital submits a pre-authorization request.
+4. The insurer reviews the request and communicates its decision.
+5. The employee may need to pay non-covered expenses.
+
+Cashless treatment is subject to insurer approval and policy conditions.
+
+6. REIMBURSEMENT CLAIM
+1. Notify the insurer or TPA within the required timeline.
+2. Complete the claim form.
+3. Submit original bills, prescriptions, discharge summary, investigation reports, and other requested documents.
+4. Keep copies of all submitted documents.
+5. Track the claim using the insurer's reference number.
+
+7. EXCLUSIONS AND LIMITATIONS
+Not every treatment or expense is covered. Common limitations may include non-medical items, excluded procedures, waiting periods, sub-limits, and expenses above approved limits. Refer to the current insurer policy for the definitive list.
+
+8. EMERGENCY
+In a medical emergency, seek immediate medical care first. Contact the insurer or emergency support line as soon as practical.
+
+9. PRIVACY
+Medical information is sensitive. Share it only through authorized insurer or HR channels and only when necessary.
+
+10. SUPPORT
+For policy numbers, e-cards, network hospitals, claim status, or coverage clarification, contact the insurer/TPA using the current official contact details or raise an HR helpdesk request.

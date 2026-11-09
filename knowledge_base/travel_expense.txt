@@ -1,0 +1,51 @@
+COMPANY KNOWLEDGE BASE
+DOCUMENT: BUSINESS TRAVEL AND EXPENSE REIMBURSEMENT POLICY
+VERSION: 1.0
+NOTE: Fictional sample policy for chatbot/RAG testing. All amounts and limits below are illustrative, not actual company entitlements.
+
+1. PURPOSE
+This document explains how employees request business travel approval and claim eligible expenses.
+
+2. PRE-APPROVAL
+- Obtain manager approval before booking business travel.
+- State the business purpose, destination, dates, estimated cost, and project or cost centre.
+- Use the approved travel desk or booking process.
+- Personal extensions or upgrades require separate approval and may be at the employee's expense.
+
+3. ILLUSTRATIVE DAILY LIMITS
+These sample limits are for testing only and must be replaced with the real company's approved rates:
+- Meals: up to INR 1,000 per day.
+- Local transport: actual reasonable cost with receipt.
+- Hotel: up to INR 4,000 per night, subject to destination and availability.
+- Air or rail: approved class and fare based on role and trip requirements.
+Actual reimbursement is subject to approval, receipts, location rules, and the company's current policy.
+
+4. ELIGIBLE EXPENSES
+Reasonable and necessary expenses directly related to approved business travel may be reimbursed. Examples include approved transport, accommodation, meals, and business-related incidental costs.
+
+5. NON-REIMBURSABLE EXPENSES
+Personal shopping, leisure activities, traffic fines, unauthorized upgrades, minibar charges, and expenses without a valid business purpose are generally not reimbursable unless an exception is formally approved.
+
+6. CLAIM SUBMISSION
+1. Open the approved expense-management portal.
+2. Select the relevant trip or business purpose.
+3. Enter each expense date, category, amount, currency, and description.
+4. Upload clear itemized receipts.
+5. Attach required approval or travel documents.
+6. Submit within the company's stated deadline.
+7. Track the claim and respond to finance queries.
+
+7. RECEIPTS
+Receipts should show the merchant, date, items or service, and amount. If a receipt is unavailable, provide an explanation and follow the finance team's exception process.
+
+8. CURRENCY CONVERSION
+For foreign-currency expenses, use the conversion method and exchange-rate source specified by Finance. Attach the original receipt and record the amount and currency paid.
+
+9. CANCELLATIONS AND CHANGES
+Notify the travel desk and manager promptly. Explain the business reason for any cancellation or change. Refunds and cancellation charges are handled according to booking terms and company policy.
+
+10. APPROVAL AND PAYMENT
+Claims are reviewed by the manager and Finance. Approved claims are reimbursed through the normal payroll or accounts-payable cycle. Incomplete or non-compliant claims may be returned for correction.
+
+11. QUESTIONS
+Contact the Finance or travel helpdesk through the official internal channel for claim status, policy exceptions, or clarification.

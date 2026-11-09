@@ -1,0 +1,61 @@
+COMPANY KNOWLEDGE BASE
+DOCUMENT: HIRING PROCESS
+VERSION: 1.0
+NOTE: Fictional sample company policy for chatbot/RAG testing. Replace details with your actual company rules.
+
+1. PURPOSE
+This document explains the standard recruitment process for full-time employees.
+
+2. ELIGIBILITY
+- Applicants must meet the education and experience requirements listed in the job description.
+- Fresh graduates may apply for entry-level roles.
+- Applicants must provide accurate education, employment, and contact details.
+- Some roles may require a portfolio, coding assessment, certification, or work sample.
+
+3. HIRING STAGES
+Stage 1 - Application:
+Candidates submit a resume through the company careers portal or an authorized recruiter.
+
+Stage 2 - Resume Screening:
+The recruitment team checks skills, education, experience, and role requirements. Shortlisted applicants are contacted by email or phone.
+
+Stage 3 - Initial HR Discussion:
+The recruiter discusses the role, location, work arrangement, notice period, salary expectations, and availability.
+
+Stage 4 - Assessment:
+Depending on the role, candidates may complete an aptitude test, coding test, case study, writing task, or practical assignment.
+
+Stage 5 - Technical or Functional Interviews:
+The hiring panel evaluates job-related knowledge, problem-solving, communication, and practical skills. There may be one or more rounds.
+
+Stage 6 - Managerial Interview:
+The hiring manager assesses role fit, collaboration, ownership, and expectations.
+
+Stage 7 - HR and Compensation Discussion:
+HR explains the proposed compensation, benefits, joining date, and employment conditions.
+
+Stage 8 - Background Verification:
+The company may verify identity, education, employment history, and references with the candidate's consent, as permitted by applicable law.
+
+Stage 9 - Offer:
+Selected candidates receive a written offer. The candidate should review and accept it by the stated deadline.
+
+Stage 10 - Onboarding:
+After acceptance and completion of required checks, HR shares joining instructions and onboarding documents.
+
+4. TYPICAL DOCUMENTS
+- Updated resume
+- Government-approved identity and address proof, where legally required
+- Education certificates and mark sheets
+- Previous employment and experience letters, if applicable
+- Recent photographs, if requested
+- Bank and tax details during onboarding, through approved secure channels
+
+5. CANDIDATE COMMUNICATION
+Recruitment updates are shared through official company email or the authorized recruitment portal. Candidates should not pay recruitment fees. The company will not request passwords or OTPs.
+
+6. RESCHEDULING
+Candidates who cannot attend an interview should notify the recruiter as early as possible and suggest alternative time slots.
+
+7. QUESTIONS
+For application status or interview scheduling, contact the recruiter using the official contact details in the job posting.
